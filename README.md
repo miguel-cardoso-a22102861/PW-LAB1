@@ -1,1 +1,1 @@
-# Extracted from Python Anywhere
+# Laboratórios da cadeira de Programação Web
